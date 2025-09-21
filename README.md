@@ -38,8 +38,9 @@ IESCP is a platform designed to streamline the collaboration between sponsors an
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/pkbhalla/IESCP.git
+   git clone https://github.com/Nv1023/IESCP.git
    cd IESCP
+
    ```
 
 2. **Install dependencies:**
@@ -50,7 +51,7 @@ IESCP is a platform designed to streamline the collaboration between sponsors an
     ```
     python main.py
     ```
-The app will be accessible at https://127.0.0.1:5000/. The database will be created automatically on first run.
+The app will be accessible at http://127.0.0.1:5000/. The database will be created automatically on first run.
 
 ## File Structure
 ```
@@ -64,3 +65,5 @@ IESCP/
 ├── requirements.txt          # Project dependencies
 ├── README.md                 # Project documentation
 ```
+## Author  
+Developed by [Nv1023](https://github.com/Nv1023)
